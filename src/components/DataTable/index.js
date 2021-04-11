@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
-import "/style.css";
+import "./style.css";
 import App from "../../App";
-import API from "../../utils/API";
+//import API from "../../utils/API";
 
 <App />;
 

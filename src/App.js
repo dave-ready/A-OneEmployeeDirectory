@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from "react";
-import DataTable from "/components/DataTable";
-import Container from "/components/Container";
-import Header from "/components/Header";
-import Navbar from "/components/Navbar";
-import API from "/utils/API";
+import DataTable from "./components/DataTable";
+import Container from "./components/Container";
+import Header from "./components/Header";
+import Navbar from "./components/Navbar";
+import API from "./utils/API";
 
 
 function App (){
