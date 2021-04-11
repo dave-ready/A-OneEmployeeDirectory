@@ -35,7 +35,7 @@
   
 
   ## Contact
-  - Github Username: dave-ready
+  - Github Username: https://github.com/dave-ready
   - E-mail: davis_ready@hotmail.com
 
  
