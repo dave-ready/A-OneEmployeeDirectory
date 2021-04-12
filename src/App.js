@@ -11,9 +11,9 @@ function App (){
   const [employeeState, setEmployeeState] = useState([]);
 
   useEffect(function () {
-    API.search().then((response) => {
-      console.log(response.data.results);
-      setEmployeeState(response.data.results);
+    API.employeeSearch().then((result) => {
+      console.log(result.data.results);
+      setEmployeeState(result.data.results);
       console.log(employeeState)
     });
   }, []);
