@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dave-ready/A-OneEmployeeDirectorystatic/css/main.1cb22df0.chunk.css",
-    "main.js": "/dave-ready/A-OneEmployeeDirectorystatic/js/main.525d7cfb.chunk.js",
-    "main.js.map": "/dave-ready/A-OneEmployeeDirectorystatic/js/main.525d7cfb.chunk.js.map",
-    "runtime-main.js": "/dave-ready/A-OneEmployeeDirectorystatic/js/runtime-main.9571ca9b.js",
-    "runtime-main.js.map": "/dave-ready/A-OneEmployeeDirectorystatic/js/runtime-main.9571ca9b.js.map",
-    "static/js/2.a88914a0.chunk.js": "/dave-ready/A-OneEmployeeDirectorystatic/js/2.a88914a0.chunk.js",
-    "static/js/2.a88914a0.chunk.js.map": "/dave-ready/A-OneEmployeeDirectorystatic/js/2.a88914a0.chunk.js.map",
-    "static/js/3.06c36648.chunk.js": "/dave-ready/A-OneEmployeeDirectorystatic/js/3.06c36648.chunk.js",
-    "static/js/3.06c36648.chunk.js.map": "/dave-ready/A-OneEmployeeDirectorystatic/js/3.06c36648.chunk.js.map",
-    "index.html": "/dave-ready/A-OneEmployeeDirectoryindex.html",
-    "static/css/main.1cb22df0.chunk.css.map": "/dave-ready/A-OneEmployeeDirectorystatic/css/main.1cb22df0.chunk.css.map",
-    "static/js/2.a88914a0.chunk.js.LICENSE.txt": "/dave-ready/A-OneEmployeeDirectorystatic/js/2.a88914a0.chunk.js.LICENSE.txt"
+    "main.css": "/A-OneEmployeeDirectory/static/css/main.1cb22df0.chunk.css",
+    "main.js": "/A-OneEmployeeDirectory/static/js/main.525d7cfb.chunk.js",
+    "main.js.map": "/A-OneEmployeeDirectory/static/js/main.525d7cfb.chunk.js.map",
+    "runtime-main.js": "/A-OneEmployeeDirectory/static/js/runtime-main.80130851.js",
+    "runtime-main.js.map": "/A-OneEmployeeDirectory/static/js/runtime-main.80130851.js.map",
+    "static/js/2.a88914a0.chunk.js": "/A-OneEmployeeDirectory/static/js/2.a88914a0.chunk.js",
+    "static/js/2.a88914a0.chunk.js.map": "/A-OneEmployeeDirectory/static/js/2.a88914a0.chunk.js.map",
+    "static/js/3.06c36648.chunk.js": "/A-OneEmployeeDirectory/static/js/3.06c36648.chunk.js",
+    "static/js/3.06c36648.chunk.js.map": "/A-OneEmployeeDirectory/static/js/3.06c36648.chunk.js.map",
+    "index.html": "/A-OneEmployeeDirectory/index.html",
+    "static/css/main.1cb22df0.chunk.css.map": "/A-OneEmployeeDirectory/static/css/main.1cb22df0.chunk.css.map",
+    "static/js/2.a88914a0.chunk.js.LICENSE.txt": "/A-OneEmployeeDirectory/static/js/2.a88914a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9571ca9b.js",
+    "static/js/runtime-main.80130851.js",
     "static/js/2.a88914a0.chunk.js",
     "static/css/main.1cb22df0.chunk.css",
     "static/js/main.525d7cfb.chunk.js"
